@@ -77,6 +77,7 @@ CREATE TABLE `usuarios` (
   `login` varchar(45) NOT NULL,
   `senha` varchar(45) NOT NULL,
   `tipo_usuario` varchar(45) NOT NULL
+  `status` varchar(20) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 --

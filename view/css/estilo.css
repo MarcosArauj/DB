@@ -1,0 +1,109 @@
+body {
+	background: #388c12;
+	/*background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));*/
+}
+
+.containerFormulario
+{
+	position: relative;
+	width: 50%;
+	margin: auto;
+}
+
+.imgsejabenvindo
+{
+	position: relative;
+	margin: auto;
+}
+
+.hand {
+	cursor: pointer;
+}
+
+.ImagemThumbnail {
+	width: 100px;
+	height: 100px;
+}
+
+p
+{
+	text-align: justify;
+	font-family: "Times New Roman", Times, serif;
+	font-style: oblique;
+	font-size: 16px;
+}
+
+.CadastroUsuario {
+	background-color: white;
+}
+
+.botaoesCadastro {
+	float: right;
+}
+
+.brand {
+	font-size: 40px;
+	font-family: serif;
+	font-style: italic;
+}
+
+.navbarSuperior {
+	position: relative;
+}
+
+.labelSuccess {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 100%;
+	color: green;
+}
+
+.seja_bem_vindo
+{
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+}
+
+.labelDanger {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 100%;
+	color: red;
+
+}
+
+.jumbotron {
+	background-color: #E6E6E6;
+}
+
+.copyright {
+	background: white;
+	border-radius: 5px;
+}
+
+footer {
+	/*clear: both;*/
+	background: black;
+	color: white;
+	line-height: 1.5;
+	padding: 2% 5%;
+	top: 100%;
+	font-size: 15px;
+	font-family: Open Sans;
+	/*border: 1px solid red;*/
+}
+
+.alinharTextoCentro
+{
+	position: relative;
+	text-align: center;
+}
+
+#direitos {
+	text-decoration: none;
+	color: #868686;
+	font-size: 1.2rem;
+	font-weight: 200;
+	font-family: "Antenna", Arial, Helvetica, "Microsoft YaHei", "微软雅黑",
+		"STXihei", "华文细黑", "SimSun", "宋体";
+}
